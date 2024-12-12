@@ -11,6 +11,7 @@ Bienvenido al manual de IAs del TA05_Grup2
 ## **IA Gestión de seguridad**
 
 ### **Darktrace**
+Darktrace es una plataforma de ciberseguridad basada en inteligencia artificial (IA) que utiliza aprendizaje automático (machine learning) para detectar, prevenir y responder a amenazas cibernéticas en tiempo real. Fue fundada en 2013 por un grupo de ex-miembros de la inteligencia de defensa del Reino Unido y se especializa en el análisis y la protección de redes de datos.
 
 **-Aplicaciones:** Detecta amenazas con algoritmos en tiempo real, actúa autónomamente, tiene poder predictivo y seguridad adaptativa que se adapta a la infraestructura.
 
@@ -107,7 +108,7 @@ La IA ha transformat el suport tècnic amb els següents impactes:
 - **Adaptació contínua**: La IA aprèn de les interaccions per millorar el servei amb el temps.
 
 No obstant, també genera desafiaments:
-
+Darktrace es una plataforma de ciberseguridad basada en inteligencia artificial (IA) que utiliza aprendizaje automático (machine learning) para detectar, prevenir y responder a amenazas cibernéticas en tiempo real. Fue fundada en 2013 por un grupo de ex-miembros de la inteligencia de defensa del Reino Unido y se especializa en el análisis y la protección de redes de datos.
 - **Desplaçament laboral**: Alguns llocs de treball tradicionals de suport poden ser eliminats o reconvertits.
 - **Dependència de la tecnologia**: Pot generar problemes si la IA falla o és insuficient.
 
