@@ -1,8 +1,4 @@
 ---
 layout: default
-title: My Markdown Page
+title: Index page
 ---
-
-# Welcome to My Markdown Page
-
-This is a simple Markdown file rendered with GitHub Pages.
