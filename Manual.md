@@ -1,5 +1,6 @@
 # TA05_Grup2 Manual
 Bienvenido al manual de IAs del TA05_Grup2
+layout: default
 ---
 ## Indice
 1. [IA Gestión de seguridad](#ia-gestión-de-seguridad)
