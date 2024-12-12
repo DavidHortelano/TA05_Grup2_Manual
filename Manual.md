@@ -3,7 +3,7 @@ Bienvenido al manual de IAs del TA05_Grup2
 ---
 ## Indice
 1. [IA Gestión de seguridad](#ia-gestión-de-seguridad)
-2. [IA Gestión de desarrollo](#introducció)
+2. [IA Gestión de desarrollo](#github-copilot)
 ---
 
 <!-- Parte IA seguridad -->
@@ -21,7 +21,7 @@ Bienvenido al manual de IAs del TA05_Grup2
 
 ---
 <!-- Parte IA desarrollo -->
-# GitHub Copilot: La Intel·ligència Artificial al Servei del Desenvolupament
+# GitHub Copilot
 
 ---
 
