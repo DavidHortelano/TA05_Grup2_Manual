@@ -3,7 +3,7 @@ Bienvenido al manual de IAs del TA05_Grup2
 ---
 ## Indice
 1. [IA Gestión de seguridad](#ia-gestión-de-seguridad)
-2. [IA Gestión de desarrollo](#referències)
+2. [IA Gestión de desarrollo](#introducció)
 ---
 
 <!-- Parte IA seguridad -->
