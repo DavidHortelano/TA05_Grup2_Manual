@@ -3,6 +3,7 @@
 ## **IA Gestion de seguridad**
 
 ### **Darktrace**
+Darktrace es una plataforma de ciberseguridad basada en inteligencia artificial (IA) que utiliza aprendizaje automático (machine learning) para detectar, prevenir y responder a amenazas cibernéticas en tiempo real. Fue fundada en 2013 por un grupo de ex-miembros de la inteligencia de defensa del Reino Unido y se especializa en el análisis y la protección de redes de datos.
 
 **-Aplicaciones:** detecta amenazas con algoritmos en tiempo real, actua autonomamente, tiene poder predictivo seguridad adaptativa que se adapta a la infrastuctura.
 
