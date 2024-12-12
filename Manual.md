@@ -1,4 +1,3 @@
-# TA05_Grup2 Manual
 Bienvenido al manual de IAs del TA05_Grup2
 ---
 ## Indice
