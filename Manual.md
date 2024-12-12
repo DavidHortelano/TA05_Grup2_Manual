@@ -69,7 +69,10 @@ L'ús de models d'IA com el que impulsa GitHub Copilot té un impacte ambiental 
 
 ![GitHub Copilot](https://www.muycomputerpro.com/wp-content/uploads/2024/04/github-copilot-workspace.jpeg)
 
-## **Propostes per Minimitzar els Impactes Ambientals**
+## **Propostes per Minimitzatitle: Manual.md
+description: Un sitio web sencillo usando GitHub Pages y Markdown.
+theme: jekyll-theme-cayman
+r els Impactes Ambientals**
 Per abordar els impactes ambientals associats amb GitHub Copilot i altres eines d'IA, es poden implementar les següents mesures:
 
 1. **Energia Renovable**: Fomentar l'ús de fonts d'energia renovable per alimentar els centres de dades.
@@ -127,5 +130,4 @@ Darktrace es una plataforma de ciberseguridad basada en inteligencia artificial 
 
 ![Descripción de la imagen](https://img.innovaciondigital360.com/wp-content/uploads/2024/10/10152539/soporte-tecnico-1280x720.jpg.webp)
 
-11111111111111111111111111111111111111111
 
