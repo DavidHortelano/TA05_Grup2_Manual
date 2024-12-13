@@ -12,4 +12,3 @@ Darktrace es una plataforma de ciberseguridad basada en inteligencia artificial 
 **-Impacto ambiental:** aumenta el consumo energetico de los sistemas donde se implementa, ya que aumenta los procesos que hay.
 
 **-Propuestas para minimizar los impactos ambientales:** asegurarse de que el aumento de consumo energetico se pueda cubrir con generacion de energia renovable, aplicar tecnologias de enfriamiento para reducir el consumo electrico.
-asdf
