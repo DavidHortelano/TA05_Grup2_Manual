@@ -23,7 +23,7 @@ Darktrace és una plataforma de ciberseguretat basada en intel·ligència artifi
 **-Propostes per minimitzar els impactes ambientals:** assegurar-se que l'augment de consum energètic es pugui cobrir amb generació d'energia renovable, aplicar tecnologies de refredament per reduir el consum elèctric.
 
 ### **Referències**
-- [Darktrace](https://www.semantic-systems.com/semantic-noticias/articulos-tecnologicos/que-es-darktrace/)
+[Darktrace](https://www.semantic-systems.com/semantic-noticias/articulos-tecnologicos/que-es-darktrace/)
 
 ---
 <!-- Parte IA desarrollo -->
