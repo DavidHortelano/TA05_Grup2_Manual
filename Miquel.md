@@ -1,14 +1,14 @@
-# TA05_Grup2 Miquel 
+# TA05_Grup2 Miquel
 
-## **IA Gestion de seguridad**
+## **IA Gestion de seguretat**
 
 ### **Darktrace**
-Darktrace es una plataforma de ciberseguridad basada en inteligencia artificial (IA) que utiliza aprendizaje automático (machine learning) para detectar, prevenir y responder a amenazas cibernéticas en tiempo real. Fue fundada en 2013 por un grupo de ex-miembros de la inteligencia de defensa del Reino Unido y se especializa en el análisis y la protección de redes de datos.
+Darktrace és una plataforma de ciberseguretat basada en intel·ligència artificial (IA) que utilitza aprenentatge automàtic (machine learning) per detectar, prevenir i respondre a amenaces cibernètiques en temps real. Va ser fundada el 2013 per un grup d'exmembres de la intel·ligència de defensa del Regne Unit i s'especialitza en l'anàlisi i la protecció de xarxes de dades.
 
-**-Aplicaciones:** detecta amenazas con algoritmos en tiempo real, actua autonomamente, tiene poder predictivo seguridad adaptativa que se adapta a la infrastuctura.
+**-Aplicacions:** detecta amenaces amb algoritmes en temps real, actua autonomament, té poder predictiu seguretat adaptativa que s'adapta a la infrastructura.
 
-**-Impacto en el sector:** mejora la seguridad general de las redes y sistemas, reduce costes porque no requiere intervencion humana.
+**-Impacte al sector:** millora la seguretat general de les xarxes i sistemes, redueix costos perquè no requereix intervenció humana.
 
-**-Impacto ambiental:** aumenta el consumo energetico de los sistemas donde se implementa, ya que aumenta los procesos que hay.
+**-Impacte ambiental:** augmenta el consum energètic dels sistemes on s'implementa, ja que augmenta els processos que hi ha.
 
-**-Propuestas para minimizar los impactos ambientales:** asegurarse de que el aumento de consumo energetico se pueda cubrir con generacion de energia renovable, aplicar tecnologias de enfriamiento para reducir el consumo electrico.
+**-Propostes per minimitzar els impactes ambientals:** assegurar-se que l'augment de consum energètic es pugui cobrir amb generació d'energia renovable, aplicar tecnologies de refredament per reduir el consum elèctric.
