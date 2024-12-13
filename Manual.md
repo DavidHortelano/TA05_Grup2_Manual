@@ -9,7 +9,7 @@ Bienvenido al manual de IAs del TA05_Grup2
 <!-- Parte IA seguridad -->
 # TA05_Grup2 Miquel
 
-## **IA Gestion de seguretat**
+## **IA Gestió de seguretat**
 
 ### **Darktrace**
 Darktrace és una plataforma de ciberseguretat basada en intel·ligència artificial (IA) que utilitza aprenentatge automàtic (machine learning) per detectar, prevenir i respondre a amenaces cibernètiques en temps real. Va ser fundada el 2013 per un grup d'exmembres de la intel·ligència de defensa del Regne Unit i s'especialitza en l'anàlisi i la protecció de xarxes de dades.
