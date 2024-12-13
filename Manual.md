@@ -1,7 +1,7 @@
 Bienvenido al manual de IAs del TA05_Grup2
 ---
 ## Indice
-1. [IA Gestión de seguridad](#ia-gestión-de-seguridad)
+1. [IA Gestió de seguretat](#ia-gestió-de-seguritat)
 2. [IA Gestión de desarrollo](#github-copilot)
 3. [IA Suport tècnic](#inteligència-artificial-en-suport-tècnic)
 4. [IA Redes](#ia-para-redes)
