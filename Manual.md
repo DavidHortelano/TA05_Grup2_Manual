@@ -7,18 +7,20 @@ Bienvenido al manual de IAs del TA05_Grup2
 ---
 
 <!-- Parte IA seguridad -->
-## **IA Gestión de seguridad**
+# TA05_Grup2 Miquel
+
+## **IA Gestion de seguretat**
 
 ### **Darktrace**
-Darktrace es una plataforma de ciberseguridad basada en inteligencia artificial (IA) que utiliza aprendizaje automático (machine learning) para detectar, prevenir y responder a amenazas cibernéticas en tiempo real. Fue fundada en 2013 por un grupo de ex-miembros de la inteligencia de defensa del Reino Unido y se especializa en el análisis y la protección de redes de datos.
+Darktrace és una plataforma de ciberseguretat basada en intel·ligència artificial (IA) que utilitza aprenentatge automàtic (machine learning) per detectar, prevenir i respondre a amenaces cibernètiques en temps real. Va ser fundada el 2013 per un grup d'exmembres de la intel·ligència de defensa del Regne Unit i s'especialitza en l'anàlisi i la protecció de xarxes de dades.
 
-**-Aplicaciones:** Detecta amenazas con algoritmos en tiempo real, actúa autónomamente, tiene poder predictivo y seguridad adaptativa que se adapta a la infraestructura.
+**-Aplicacions:** detecta amenaces amb algoritmes en temps real, actua autonomament, té poder predictiu seguretat adaptativa que s'adapta a la infrastructura.
 
-**-Impacto en el sector:** Mejora la seguridad general de las redes y sistemas, reduce costes porque no requiere intervención humana.
+**-Impacte al sector:** millora la seguretat general de les xarxes i sistemes, redueix costos perquè no requereix intervenció humana.
 
-**-Impacto ambiental:** Aumenta el consumo energético de los sistemas donde se implementa, ya que incrementa los procesos que hay.
+**-Impacte ambiental:** augmenta el consum energètic dels sistemes on s'implementa, ja que augmenta els processos que hi ha.
 
-**-Propuestas para minimizar los impactos ambientales:** Asegurarse de que el aumento de consumo energético se pueda cubrir con generación de energía renovable, aplicar tecnologías de enfriamiento para reducir el consumo eléctrico.
+**-Propostes per minimitzar els impactes ambientals:** assegurar-se que l'augment de consum energètic es pugui cobrir amb generació d'energia renovable, aplicar tecnologies de refredament per reduir el consum elèctric.
 
 ---
 <!-- Parte IA desarrollo -->
