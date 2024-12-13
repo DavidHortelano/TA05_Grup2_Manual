@@ -9,8 +9,6 @@ Bienvenido al manual de IAs del TA05_Grup2
 ---
 
 <!-- Parte IA seguridad -->
-# TA05_Grup2 Miquel
-
 ## **IA Gestió de seguretat**
 
 ### **Darktrace**
