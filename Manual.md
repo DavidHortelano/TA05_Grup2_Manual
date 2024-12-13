@@ -5,6 +5,7 @@ Bienvenido al manual de IAs del TA05_Grup2
 2. [IA Gestión de desarrollo](#github-copilot)
 3. [IA Suport tècnic](#inteligència-artificial-en-suport-tècnic)
 4. [IA Redes](#ia-para-redes)
+
 ---
 
 <!-- Parte IA seguridad -->
