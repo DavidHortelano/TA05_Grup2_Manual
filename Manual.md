@@ -90,7 +90,6 @@ Per abordar els impactes ambientals associats amb GitHub Copilot i altres eines 
 ### **Referències**
 - [GitHub Copilot](https://github.com/features/copilot)
 - [OpenAI Codex](https://openai.com/blog/openai-codex)
-- Informes sobre sostenibilitat en IA
 
 ---
 
