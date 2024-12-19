@@ -131,6 +131,11 @@ Darktrace es una plataforma de ciberseguridad basada en inteligencia artificial 
 - **Ús d’energies renovables**: Alimentar els centres de dades amb fonts d’energia netes.
 - **Manteniment preventiu**: Garantir que el maquinari s’utilitzi durant més temps gràcies a un manteniment adequat.
 
+**Zendesk** és una plataforma de servei d'atenció al client que utilitza la intel·ligència artificial (IA) i l'automatització per millorar la gestió de les sol·licituds d'assistència i optimitzar l'experiència de l'usuari. A continuació, t'explico més detalladament com funciona Zendesk i com aplica la IA en el suport tècnic.
+
+1. Gestió de Tickets i Sol·licituds:
+Zendesk permet crear un sistema de gestió de tickets, on cada sol·licitud de suport que arriba és convertida en un "ticket" que es pot gestionar, assignar i seguir. Els agents de suport poden veure tots els detalls dels tickets (com el problema descrit, les interaccions anteriors amb el client, etc.), la qual cosa facilita una resposta ràpida i precisa.
+
 ![Descripción de la imagen](https://img.innovaciondigital360.com/wp-content/uploads/2024/10/10152539/soporte-tecnico-1280x720.jpg.webp)
 
 <!-- Parte IA Redes -->
