@@ -73,7 +73,7 @@ L'ús de models d'IA com el que impulsa GitHub Copilot té un impacte ambiental 
 
 ![GitHub Copilot](https://www.muycomputerpro.com/wp-content/uploads/2024/04/github-copilot-workspace.jpeg)
 
-## **Propostes per Minimitzatitle: Manual.md
+## **Propostes per Minimitzatitle: Manual.md**
 description: Un sitio web sencillo usando GitHub Pages y Markdown.
 theme: jekyll-theme-cayman
 r els Impactes Ambientals**
