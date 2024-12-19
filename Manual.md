@@ -136,7 +136,7 @@ Darktrace es una plataforma de ciberseguridad basada en inteligencia artificial 
 ***Gestió de Tickets i Sol·licituds***:
 Zendesk permet crear un sistema de gestió de tickets, on cada sol·licitud de suport que arriba és convertida en un "ticket" que es pot gestionar, assignar i seguir. Els agents de suport poden veure tots els detalls dels tickets (com el problema descrit, les interaccions anteriors amb el client, etc.), la qual cosa facilita una resposta ràpida i precisa.
 
-[This link](https://www.zendesk.es/))
+[Zendesk](https://www.zendesk.es/))
 
 <!-- Parte IA Redes -->
 
