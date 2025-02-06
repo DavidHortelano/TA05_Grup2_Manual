@@ -3,7 +3,7 @@ Bienvenido al manual del TA06_Grup5
 ## Indice1
 1. [Obtencion de datos](#ejercicio-1)
 2. [Organizar y procesar datos](#ejercicio-2)
-3. [Reflexion](#ejercicio-5)
+3. [Reflexion](#ejercicio-3)
 
 ---
 <!-- Ejercicio 1 -->
