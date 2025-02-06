@@ -3,7 +3,7 @@ Bienvenido al manual del TA06_Grup5
 ## Indice1
 1. [Obtencion de datos](#ejercicio-1)
 2. [Organizar y procesar datos](#ejercicio-2)
-3. [Reflexion](#ejercicio-3)
+3. [Reflexión](#ejercicio-3)
 
 ---
 <!-- Ejercicio 1 -->
@@ -44,7 +44,7 @@ Bienvenido al manual del TA06_Grup5
 ---
 <!-- Ejercicio 3 -->
 # Ejercicio 3
-## Reflexion
+## Reflexión
 
 En esta parte de la práctica tenemos que explicar que hemos aprendido cada uno de los miembros del grupo.
 En cada apartado, de manera individual, tenemos que indicar el nivel de aprendizaje sobre lo que hemos aprendido durante la practica en general.
