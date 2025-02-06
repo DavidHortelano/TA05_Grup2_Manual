@@ -42,6 +42,10 @@ Bienvenido al manual del TA06_Grup5
 ![Ejercicio 4 .py](imagenes/py4.png)
 
 ---
+
+![grafic](imagenes/grafic.png)
+
+---
 <!-- Ejercicio 3 -->
 # Ejercicio 3
 ## Reflexión
