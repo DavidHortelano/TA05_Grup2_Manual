@@ -45,3 +45,49 @@ Bienvenido al manual del TA06_Grup5
 <!-- Ejercicio 3 -->
 # Ejercicio 3
 ## Reflexión
+
+En esta parte de la práctica tenemos que explicar que hemos aprendido cada uno de los miembros del grupo.
+En cada apartado, de manera individual, tenemos que indicar el nivel de aprendizaje sobre lo que hemos aprendido durante la practica en general.
+
+# Registro de aprendizaje de 
+---
+## Qué es lo que he aprendido durante la práctica?
+- Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
+
+- He entendido como subir los diferentes archivos al GitHub: **Bien**
+
+- He entès com crear una web i publicar-la: **Algo**
+
+- He intentat aprendre com obtenir les dades: **Algo**
+
+- He après com generar els diferents resultats: **Poco**
+
+---
+# Registro de aprendizaje de 
+---
+## Qué es lo que he aprendido durante la práctica?
+- Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
+
+- He entendido como subir los diferentes archivos al GitHub: **Bien**
+
+- He entès com crear una web i publicar-la: **Algo**
+
+- He intentat aprendre com obtenir les dades: **Algo**
+
+- He après com generar els diferents resultats: **Poco**
+
+---
+# Registro de aprendizaje de 
+---
+## Qué es lo que he aprendido durante la práctica?
+- Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
+
+- He entendido como subir los diferentes archivos al GitHub: **Bien**
+
+- He entès com crear una web i publicar-la: **Algo**
+
+- He intentat aprendre com obtenir les dades: **Algo**
+
+- He après com generar els diferents resultats: **Poco**
+
+
