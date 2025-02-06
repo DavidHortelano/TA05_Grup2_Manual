@@ -68,7 +68,7 @@ En cada apartado, de manera individual, tenemos que indicar el nivel de aprendiz
 ## Qué es lo que he aprendido durante la práctica?
 - Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
 
-- Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
+- Trabajo en grupo: he entendido que datos se muestran: **Bien**
 
 - He entendido como subir los datos obtenidos al GitHub: **Algo**
 
