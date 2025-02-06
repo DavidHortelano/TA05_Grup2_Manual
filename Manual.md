@@ -44,7 +44,7 @@ Bienvenido al manual del TA06_Grup5
 ---
 <!-- Ejercicio 3 -->
 # Ejercicio 3
-## Reflexión
+## Reflexion
 
 En esta parte de la práctica tenemos que explicar que hemos aprendido cada uno de los miembros del grupo.
 En cada apartado, de manera individual, tenemos que indicar el nivel de aprendizaje sobre lo que hemos aprendido durante la practica en general.
