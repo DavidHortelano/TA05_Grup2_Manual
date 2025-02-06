@@ -63,7 +63,7 @@ En cada apartado, de manera individual, tenemos que indicar el nivel de aprendiz
 - : **Poco**
 
 ---
-# Registro de aprendizaje de 
+# Registro de aprendizaje de
 ---
 ## Qué es lo que he aprendido durante la práctica?
 - Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
@@ -72,7 +72,7 @@ En cada apartado, de manera individual, tenemos que indicar el nivel de aprendiz
 
 - He entendido como subir los datos obtenidos al GitHub: **Algo**
 
-- :He intentado entender como obtener los datos: **Algo**
+- He intentado entender como obtener los datos: **Algo**
 
 - He aprendido como generar los diferentes resultados: **Poco**
 
