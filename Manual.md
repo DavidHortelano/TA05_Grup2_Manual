@@ -58,7 +58,7 @@ En cada apartado, de manera individual, tenemos que indicar el nivel de aprendiz
 
 - : **Algo**
 
--: **Algo**
+- : **Algo**
 
 - : **Poco**
 
