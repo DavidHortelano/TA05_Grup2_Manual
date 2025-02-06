@@ -3,9 +3,7 @@ Bienvenido al manual del TA06_Grup5
 ## Indice1
 1. [Obtencion de datos](#ejercicio-1)
 2. [Organizar y procesar datos](#ejercicio-2)
-3. [Generar resultados](#ejercicio-3)
-4. [Publicar los resultados](#ejercicio-4)
-5. [Reflexion](#ejercicio-5)
+3. [Reflexion](#ejercicio-5)
 
 ---
 <!-- Ejercicio 1 -->
@@ -46,14 +44,4 @@ Bienvenido al manual del TA06_Grup5
 ---
 <!-- Ejercicio 3 -->
 # Ejercicio 3
-## Generar resultados
-
----
-<!-- Ejercicio 4 -->
-# Ejercicio 4
-## Publicar los datos
-
----
-<!-- Ejercicio 5 -->
-# Ejercicio 5
 ## Reflexion
