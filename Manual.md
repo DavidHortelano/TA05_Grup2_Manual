@@ -44,4 +44,4 @@ Bienvenido al manual del TA06_Grup5
 ---
 <!-- Ejercicio 3 -->
 # Ejercicio 3
-## Reflexion
+## Reflexión
