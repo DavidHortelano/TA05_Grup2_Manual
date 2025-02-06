@@ -52,29 +52,15 @@ En cada apartado, de manera individual, tenemos que indicar el nivel de aprendiz
 # Registro de aprendizaje de 
 ---
 ## Qué es lo que he aprendido durante la práctica?
-- Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
+- : **Bien**
 
-- He entendido como subir los diferentes archivos al GitHub: **Bien**
+- : **Bien**
 
-- He entès com crear una web i publicar-la: **Algo**
+- : **Algo**
 
-- He intentat aprendre com obtenir les dades: **Algo**
+-: **Algo**
 
-- He après com generar els diferents resultats: **Poco**
-
----
-# Registro de aprendizaje de 
----
-## Qué es lo que he aprendido durante la práctica?
-- Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
-
-- He entendido como subir los diferentes archivos al GitHub: **Bien**
-
-- He entès com crear una web i publicar-la: **Algo**
-
-- He intentat aprendre com obtenir les dades: **Algo**
-
-- He après com generar els diferents resultats: **Poco**
+- : **Poco**
 
 ---
 # Registro de aprendizaje de 
@@ -82,12 +68,26 @@ En cada apartado, de manera individual, tenemos que indicar el nivel de aprendiz
 ## Qué es lo que he aprendido durante la práctica?
 - Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
 
-- He entendido como subir los diferentes archivos al GitHub: **Bien**
+- Trabajo en grupo: he aprendido a explicar mis ideas: **Bien**
 
-- He entès com crear una web i publicar-la: **Algo**
+- He entendido como subir los datos obtenidos al GitHub: **Algo**
 
-- He intentat aprendre com obtenir les dades: **Algo**
+- :He intentado entender como obtener los datos: **Algo**
 
-- He après com generar els diferents resultats: **Poco**
+- He aprendido como generar los diferentes resultados: **Poco**
+
+---
+# Registro de aprendizaje de 
+---
+## Qué es lo que he aprendido durante la práctica?
+- : **Bien**
+
+- : **Bien**
+
+- : **Algo**
+
+- : **Algo**
+
+- : **Poco**
 
 
