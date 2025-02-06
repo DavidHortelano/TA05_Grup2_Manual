@@ -53,18 +53,18 @@ Bienvenido al manual del TA06_Grup5
 En esta parte de la práctica tenemos que explicar que hemos aprendido cada uno de los miembros del grupo.
 En cada apartado, de manera individual, tenemos que indicar el nivel de aprendizaje sobre lo que hemos aprendido durante la practica en general.
 
-# Registro de aprendizaje de 
+# Registro de aprendizaje de Adria
 ---
 ## Qué es lo que he aprendido durante la práctica?
-- : **Bien**
+- Trabajo en grupo: he aprendido a explicar mis ideas: **Mucho**
 
-- : **Bien**
+- Trabajo en grupo: he entendido que datos se muestran: **Mucho**
 
-- : **Algo**
+- He entendido como subir los datos obtenidos al GitHub: **Bien**
 
-- : **Algo**
+- He intentado entender como funcionan los Scripts de los distintos ejercicios: **Algo**
 
-- : **Poco**
+- He aprendido como generar los diferentes resultados: **Poco**
 
 ---
 # Registro de aprendizaje de Bryan
@@ -81,17 +81,17 @@ En cada apartado, de manera individual, tenemos que indicar el nivel de aprendiz
 - He aprendido como generar los diferentes resultados: **Poco**
 
 ---
-# Registro de aprendizaje de 
+# Registro de aprendizaje de David
 ---
 ## Qué es lo que he aprendido durante la práctica?
-- : **Bien**
+- Trabajo en grupo: he aprendido a explicar mis ideas: **Força**
 
-- : **Bien**
+- Trabajo en grupo: he entendido que datos se muestran: **Molt**
 
-- : **Algo**
+- He entendido como subir los datos obtenidos al GitHub: **Força**
 
-- : **Algo**
+- He intentado entender como funcionan los Scripts de los distintos ejercicios: **Poc**
 
-- : **Poco**
+- He aprendido como generar los diferentes resultados: **Poc**
 
 
